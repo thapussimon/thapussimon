@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thapus Simon
 - 👀 I’m interested in MERN Stack technology. 
-- 🌱 I’m currently working as a Tech Intern @ Merkle Sokrati (Dentsu Aegis Network)
+- 🌱 I’m currently working at IBM
 - 💞️ I’m looking to collaborate on open source projects.
 
 <!---
