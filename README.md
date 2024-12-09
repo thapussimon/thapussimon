@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Site Reliability Engineer with [X] years of experience in ensuring high availability, scalability, and performance of critical systems. My expertise spans various technologies and cloud platforms, with a focus on automation, cloud security, and monitoring.
+I am a Site Reliability Engineer with experience in ensuring high availability, scalability, and performance of critical systems. My expertise spans various technologies and cloud platforms, with a focus on automation, cloud security, and monitoring.
 
 - Proficient in **AWS**, **Azure**, and **Google Cloud** for infrastructure management.
 - Experienced in implementing **CI/CD pipelines**, **Infrastructure as Code (IaC)** using tools like Terraform, CloudFormation, and Ansible.
